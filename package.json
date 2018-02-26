@@ -1,0 +1,21 @@
+{
+  "name": "parcel-hyperapp",
+  "version": "1.0.0",
+  "description": "a example  with hyperapp and parcel ",
+  "main": "index.js",
+  "scripts": {
+    "start" : "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parcel",
+    "hyperapp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hyperapp": "^1.1.2",
+    "less": "^3.0.1",
+    "parcel-bundler": "^1.6.2"
+  }
+}
